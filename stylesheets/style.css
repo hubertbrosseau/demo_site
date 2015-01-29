@@ -1,0 +1,16 @@
+@import url("banner.css");
+@import url("footer.css");
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #141414;
+}
+
+.bg-grey {
+  background-color: #3498DB;
+  color: white;
+}
+
+#newsletter {
+  padding: 100px 0px;
+}
